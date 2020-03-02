@@ -1,0 +1,12 @@
+# .gitignore
+__pycache__
+venv
+env
+.pytest_cache
+.coverage
+.idea
+.ipynb_checkpoints
+data
+logs
+venv1
+runs
